@@ -1,6 +1,11 @@
-### Hi there 👋
+### Hi there, my name is Andrew and I'm a Computational Biologist from the San Francisco Bay Area. I currently live in Boston, Massachusetts. My educational background is a M.S. in Bioinformatics (Boston University) and a B.S. in Biomolecular Engineering (University of California, Santa Cruz). My main coding strengths are Python and R. This repository contains a selection of code I've written over the years to highlight some of my skills.
+
+🌱 I’m currently learning SQL and the Python's TensorFlow library.
 
 <!--
+
+🔭 I’m currently working on a project involving prosthetics, 
+
 **andrewG14/andrewG14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
